@@ -4,7 +4,7 @@ This project uses **Langchain**, **Langchain-Groq**, and **LLM (Llama)** to crea
 
 ## Features
 
-- Web scraping of content from the authenticated page.
+- Web scraping of content from web pages.
 - Processing the scraped content using the `Llama-3.1-70b-versatile` model integrated with Langchain-Groq.
 - Generation of intelligent responses based on the obtained content.
 
