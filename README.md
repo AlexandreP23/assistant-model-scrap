@@ -51,5 +51,6 @@ cd your-repo
 pip install -r requirements.txt
 ```
 
-## Langchain https://www.langchain.com/
-
+### Langchain https://www.langchain.com/
+### Groq https://www.langchain.com/
+### Streamlit https://streamlit.io/
