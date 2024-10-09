@@ -52,5 +52,5 @@ pip install -r requirements.txt
 ```
 
 ### Langchain https://www.langchain.com/
-### Groq https://www.langchain.com/
+### Groq https://groq.com/
 ### Streamlit https://streamlit.io/
