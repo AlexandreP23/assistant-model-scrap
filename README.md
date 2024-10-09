@@ -51,5 +51,5 @@ cd your-repo
 pip install -r requirements.txt
 ```
 
-[langchain]([URL](https://www.langchain.com/))
+Langchain(https://www.langchain.com/)
 
