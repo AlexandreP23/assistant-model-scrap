@@ -21,6 +21,16 @@ This project uses **Langchain**, **Langchain-Groq**, and **LLM (Llama)** to crea
 
 - Python 3.x installed on your machine.
 
+- Activate your virtual environment (if not already activated):
+
+```
+# On Windows
+.\venv\Scripts\activate
+
+# On macOS/Linux
+source venv/bin/activate
+```
+
 ### Installation
 
 **1. Clone this repository:**
